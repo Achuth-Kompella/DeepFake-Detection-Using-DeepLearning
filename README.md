@@ -5,6 +5,9 @@ DeepFakes are synthetic images or videos generated to modify existing images or 
 
 ## Dataset Used :-
   We are using the Celeb-DF dataset.
+   Link to the dataset :
+  1.**https://drive.google.com/drive/folders/10FI33Kv5wPePuBeG0qlam4H0lMwaPsnU?usp=share_link**.
+  2.**https://drive.google.com/drive/folders/1VZedYae_oBwXdxqqYageyzT5jUYnHI-3?usp=share_link**
 
 It is a large-scale challenging dataset for deepfake forensics. It includes 479 original videos and 455 corresponding DeepFake videos.The videos consists cropped celebrity faces. The real source videos are based on publicly available YouTube video clips of 59 celebrities of diverse genders, ages, and ethic groups. The DeepFake videos are generated using an improved DeepFake synthesis method. As a result, the overall visual quality of the synthesized DeepFake videos in Celeb-DF is greatly improved when compared to existing datasets, with significantly fewer notable visual artifacts. The features of the dataset are the videos and a label of -fake/real.
 
